@@ -73,14 +73,9 @@ Inovet Systems Ltd
 -   Provide technical support to staff requiring technical assistance.
 -   Run software updates and Software Patches in case of system bugs.
 -   Assist with installation of software, hardware and other
-    applications. Including security systems
-
-i.e. IP cameras as well as access control systems.
-
+    applications. Including security systems i.e. IP cameras as well as access control systems.
 -   Assist in setting up new PCs, Installation of Software, Network and
-    Internet Configurations,
-
-[]{#anchor} Servicing hardware i.e. computers, cameras as well as
+    Internet Configurations,Servicing hardware i.e. computers, cameras as well as
 access control panels.
 
 **JKUAT: Computer Systems Department: **
@@ -92,7 +87,7 @@ access control panels.
 -   System configurations i.e. Implementing School portals and Running
     tests to ensure system performance.
 -   Provide technical support to students who need technical assistance.
--   Developing web portals using HTML and PHP.
+-   Assist in Developing web portals using HTML and PHP.
 -   Running Functional and Regression Tests on Systems.
 -   Running software updates and Software Patches on school web Portals.
 
@@ -108,8 +103,8 @@ EDUCATION
 October 2019 --19^th\ ^November 2019 Moringa School  
 ====================================================
 
- Currently at Moringa School where I am pursuing a short course in Data
-Science ending on 19th November 2019.
+ Moringa School where I pursed a short course in Data
+Science 
 
 ***University Education:***** **
 
